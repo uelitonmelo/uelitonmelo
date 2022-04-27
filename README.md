@@ -6,7 +6,7 @@
 
 🎓 Bacharel em Sistemas de Informação
 
-⚙️ Atualmente estou trabalhando na MCN Sistemas
+📌 Atualmente estou trabalhando na MCN Sistemas
 <br><br>
 
 ### 📚 Estou estudando
