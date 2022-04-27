@@ -7,9 +7,7 @@
 🎓 Bacharel em Sistemas de Informação
 
 🔭 Atualmente estou trabalhando na MCN Sistemas
-<br>
-<br>
-
+<br><br>
 
 ### Estou estudando
 ## 
@@ -23,11 +21,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
+## 
 
 [![Mail Badge](https://img.shields.io/badge/-ueliton_melo@hotmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:ueliton_melo@hotmail.com)](mailto:ueliton_melo@hotmail.com)
-
+<br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
