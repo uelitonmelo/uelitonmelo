@@ -26,6 +26,9 @@
 
 <br><br>
 
+[![Mail Badge](https://img.shields.io/badge/-ueliton_melo@hotmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:ueliton_melo@hotmail.com)](mailto:ueliton_melo@hotmail.com)
+
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
