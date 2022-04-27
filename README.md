@@ -23,6 +23,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ## 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uelitonmelo/)](https://www.linkedin.com/in/uelitonmelo//)
 [![Mail Badge](https://img.shields.io/badge/-ueliton_melo@hotmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:ueliton_melo@hotmail.com)](mailto:ueliton_melo@hotmail.com)
 <br>
 <br>
