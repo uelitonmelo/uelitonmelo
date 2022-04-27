@@ -9,7 +9,7 @@
 ⚙️ Atualmente estou trabalhando na MCN Sistemas
 <br><br>
 
-### Estou estudando
+### 📚 Estou estudando
 ## 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -22,6 +22,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ## 
+
+<br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uelitonmelo/)](https://www.linkedin.com/in/uelitonmelo//)
 [![Mail Badge](https://img.shields.io/badge/-ueliton_melo@hotmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:ueliton_melo@hotmail.com)](mailto:ueliton_melo@hotmail.com)
