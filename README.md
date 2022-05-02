@@ -8,8 +8,7 @@
 
 🎓 Bacharel em Sistemas de Informação
 
-<br><br>
-
+---
 ### 📚 Estou estudando
 ---
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
